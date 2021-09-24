@@ -22,3 +22,7 @@
     <input type="text" name="movieDirector"><br/>
     <input type="submit" value="เพิ่มหนัง">
 </form>
+
+<!-- 
+ just a comment before 2nd Git commit
+-->
