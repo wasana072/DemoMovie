@@ -25,12 +25,7 @@
         <script>
             // Your web app's Firebase configuration
             var firebaseConfig = {
-                apiKey: "AIzaSyBbmV6IOf9iwyKt-GDbeolQCVBHQh_9A6A",
-                authDomain: "movieproject-857ef.firebaseapp.com",
-                projectId: "movieproject-857ef",
-                storageBucket: "movieproject-857ef.appspot.com",
-                messagingSenderId: "876301819519",
-                appId: "1:876301819519:web:d9a15badf3157722f4e94a"
+
             };
             // Initialize Firebase
             firebase.initializeApp(firebaseConfig);
